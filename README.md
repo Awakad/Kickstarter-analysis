@@ -1,2 +1,2 @@
-# Kickstarter-analysis
-Kickstarter Data Analysis using Excel
+# Kickstarter Campaign analysis
+This is an anlysis of Crowdfunding Campaign for Louise done with excel
