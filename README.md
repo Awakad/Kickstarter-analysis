@@ -3,7 +3,7 @@
 ## Overview of Project
 
 ### Purpose
-
+The purpose of this project was to evalute the varying level of success fordifferent categories of kickstarter campaigns.
 ## Analysis and Challenges
 ![](Outcome_Based_on_Launch_Date.png)
 
