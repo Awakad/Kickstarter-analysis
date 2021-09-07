@@ -9,7 +9,7 @@ The purpose of this project was to evalute the varying level of success for diff
 
 ### Analysis of Outcomes Based on Launch Date
 ![](Category_Statistics_Outcome.png)
-
+![](Launch_Date_outcome.png)
 ### Analysis of Outcomes Based on Goals
 ![](Box_and_Whiskers.png)
 ### Challenges and Difficulties Encountered
